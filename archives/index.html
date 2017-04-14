@@ -84,7 +84,7 @@
 
     <title>
   
-    Archives · Tutuoo
+    归档 · Tutuoo
   
 </title>
   </head>
@@ -130,6 +130,15 @@
         </li>
       </a>
     
+      <a href="/404.html">
+        <li class="mobile-menu-item">
+          
+          
+            Commonweal
+          
+        </li>
+      </a>
+    
       <a href="/about">
         <li class="mobile-menu-item">
           
@@ -155,7 +164,7 @@
           <a class="menu-item-link" href="/archives/">
             
             
-              Archives
+              归档
             
           </a>
         </li>
@@ -164,7 +173,7 @@
           <a class="menu-item-link" href="/tags">
             
             
-              Tags
+              标签
             
           </a>
         </li>
@@ -179,10 +188,19 @@
         </li>
       
         <li class="menu-item">
+          <a class="menu-item-link" href="/404.html">
+            
+            
+              Commonweal
+            
+          </a>
+        </li>
+      
+        <li class="menu-item">
           <a class="menu-item-link" href="/about">
             
             
-              About
+              关于
             
           </a>
         </li>
@@ -205,7 +223,7 @@
         <div class="archive-title">
           <h2 class="archive-name"> All </h2>
           <span class="archive-post-counter">
-            3 Posts In Total
+            目前共计 3 篇日志
           </span>
         </div>
       
@@ -251,8 +269,8 @@
           
         </span>
         <span class="archive-post-title">
-          <a href="/2017/04/13/hello-world/" class="archive-post-link">
-            Hello World
+          <a href="/2017/04/13/tutu_speak/" class="archive-post-link">
+            tutu_speak
           </a>
         </span>
       </div>
@@ -271,8 +289,8 @@
           
         </span>
         <span class="archive-post-title">
-          <a href="/2017/04/13/tutu_speak/" class="archive-post-link">
-            tutu_speak
+          <a href="/2017/04/13/hello-world/" class="archive-post-link">
+            Hello World
           </a>
         </span>
       </div>
@@ -335,11 +353,11 @@
 
 <div class="copyright">
   <span class="power-by">
-    Powered by <a class="hexo-link" href="https://hexo.io/">Hexo</a>
+    由 <a class="hexo-link" href="https://hexo.io/">Hexo</a> 强力驱动
   </span>
   
   <span class="theme-info">
-    Theme - 
+    主题 - 
     <a class="theme-link" href="https://github.com/ahonn/hexo-theme-even">Even</a>
   </span>
 
@@ -354,6 +372,20 @@
     </span>
     <span class="author">tutuoo</span>
   </span>
+  <script async src="//dn-lbstatics.qbox.me/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+  <span id="busuanzi_container_site_uv">
+    view <span id="busuanzi_value_site_uv"></span> times
+  </span>
+  
+  <script>
+    var birthDay = new Date("11/20/2014");
+    var now = new Date();
+    var duration = now.getTime() - birthDay.getTime();
+    var total= Math.floor(duration / (1000 * 60 * 60 * 24));
+    document.getElementById("showDays").innerHTML = "本站已运行 "+total+" 天";
+  </script>
+  <span id="showDays"></span>
+
 </div>
       </footer>
 
