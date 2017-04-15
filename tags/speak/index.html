@@ -18,7 +18,7 @@
 
 
 
-  <link rel="alternate" href="/default" title="Tutuoo">
+  <link rel="alternate" href="/atom.xml" title="Tutuoo">
 
 
 
@@ -27,12 +27,12 @@
 
 
 
-<link rel="canonical" href="https://github.com/tutuoo/tags/speak/"/>
+<link rel="canonical" href="https://github.com/tutuoo/tags/Speak/"/>
 
 
 <meta property="og:type" content="website">
 <meta property="og:title" content="Tutuoo">
-<meta property="og:url" content="https://github.com/tutuoo/tags/speak/index.html">
+<meta property="og:url" content="https://github.com/tutuoo/tags/Speak/index.html">
 <meta property="og:site_name" content="Tutuoo">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Tutuoo">
@@ -42,15 +42,17 @@
 
 
 
+  <link rel="stylesheet" type="text/css" href="/lib/fancybox/jquery.fancybox.css" />
+
 
 
 
 
 <script>
   var CONFIG = {
-    search: false,
+    search: true,
     searchPath: "/search.xml",
-    fancybox: false,
+    fancybox: true,
     toc: true,
   }
 </script>
@@ -84,7 +86,7 @@
 
     <title>
   
-    speak · Tutuoo
+    Speak · Tutuoo
   
 </title>
   </head>
@@ -206,6 +208,14 @@
         </li>
       
       
+        <li class="menu-search">
+          <form>
+            <i class="iconfont icon-search" id="open-search"></i>
+            <input type="text" class="search-input" id="search-input" />
+            <i class="iconfont icon-close" id="close-search"></i>
+          </form>
+        </li>
+      
     </ul>
   
 </nav>
@@ -221,7 +231,7 @@
     
       
         <div class="archive-title tag">
-          <h2 class="archive-name">speak</h2>
+          <h2 class="archive-name">Speak</h2>
         </div>
       
     
@@ -292,7 +302,6 @@
     
     
     
-      
       <a href="/atom.xml" class="iconfont icon-rss" title="rss"></a>
     
   </div>
@@ -348,13 +357,13 @@
   <script type="text/javascript">
     var disqus_config = function () {
         this.page.url = '';
-        this.page.identifier = 'tags/speak/index.html';
+        this.page.identifier = 'tags/Speak/index.html';
         this.page.title = '';
     };
     (function() {
     var d = document, s = d.createElement('script');
 
-    s.src = '//tutu_oo.disqus.com/embed.js';
+    s.src = '//tutuoo.disqus.com/embed.js';
 
     s.setAttribute('data-timestamp', +new Date());
     (d.head || d.body).appendChild(s);
@@ -367,6 +376,8 @@
 
 
     
+  
+
 
 
 
@@ -380,11 +391,39 @@
   
 
   
+    <script type="text/javascript" src="/lib/fancybox/jquery.fancybox.pack.js"></script>
+  
 
 
     <script type="text/javascript" src="/js/src/even.js?v=2.3.x"></script>
 <script type="text/javascript" src="/js/src/bootstrap.js?v=2.3.x"></script>
 
     
+  <script type="text/html" id="search-result">
+    <article class="post">
+      <header class="post-header">
+        <h1 class="post-title">
+          <a href="$url$" class="post-link">
+            $title$
+          </a>
+        </h1>
+      </header>
+      <div class="post-content">
+        $content$
+        <div class="read-more">
+          <a href="$url$" class="read-more-link">
+            Read more..
+          </a>
+        </div>
+      </div>
+    </article>
+  </script>
+  <script type="text/html" id="no-search-result">
+    <div class="no-result">
+      <h2>No result found!</h2>
+    </div>
+  </script>
+  <script type="text/javascript" src="/js/src/search.js?v=2.3.x"></script>
+
   </body>
 </html>
