@@ -3,6 +3,28 @@
   
     
     <entry>
+      <title><![CDATA[推荐一些 Mac 软件带破解]]></title>
+      <url>/2017/04/17/Mac-app/</url>
+      <content type="html"><![CDATA[<h1 id="Vysor"><a href="#Vysor" class="headerlink" title="Vysor"></a>Vysor</h1><h4 id="Vysor是一款Chrome应用（通过USB电缆，不支持Wi-Fi连接）共享手机屏幕在电脑上的插件，可以通过电脑点击，触摸，来控制手机，实现无延迟操作。"><a href="#Vysor是一款Chrome应用（通过USB电缆，不支持Wi-Fi连接）共享手机屏幕在电脑上的插件，可以通过电脑点击，触摸，来控制手机，实现无延迟操作。" class="headerlink" title="Vysor是一款Chrome应用（通过USB电缆，不支持Wi-Fi连接）共享手机屏幕在电脑上的插件，可以通过电脑点击，触摸，来控制手机，实现无延迟操作。"></a>Vysor是一款Chrome应用（通过USB电缆，不支持Wi-Fi连接）共享手机屏幕在电脑上的插件，可以通过电脑点击，触摸，来控制手机，实现无延迟操作。</h4><p>下载地址：<a href="https://chrome.google.com/webstore/detail/vysor/gidgenkbbabolejbgbpnhbimgjbffefm" target="_blank" rel="external">Chrome 商店（需要翻墙）</a></p>
+<h4 id="默认是免费版本的速度只有500K，下面通过修改配置内容来达到4M-的速度。（亲测适用于1-7-2，1-7-3）"><a href="#默认是免费版本的速度只有500K，下面通过修改配置内容来达到4M-的速度。（亲测适用于1-7-2，1-7-3）" class="headerlink" title="默认是免费版本的速度只有500K，下面通过修改配置内容来达到4M 的速度。（亲测适用于1.7.2，1.7.3）"></a>默认是免费版本的速度只有500K，下面通过修改配置内容来达到4M 的速度。（亲测适用于1.7.2，1.7.3）</h4><ol>
+<li>谷歌地址栏输入 chrome://version/ 打开关于 找到个人资料路径<br><img src="/images/route.jpg" alt=""><br>可能有些童鞋看不到文件夹，是因为 Mac 默认是不显示隐藏文件的。我们使用快捷键 command + shift + .    来开启或者关闭。<br>以下是我的路径/Users/tuhonghui/Library/Application Support/Google/Chrome/Default，然后打开Extensions文件夹，里面是你 Chrome 所有的插件。</li>
+<li>地址栏输入chrome://extensions/，找到Vysor的版本号，去Extensions文件夹里打开相对应的文件夹。<a id="more"></a></li>
+<li>找到uglify.js，打开编辑，搜索_il</li>
+<li>把_il:Te.a() 替换为 _il:true</li>
+<li>保存好，重新开启 Vysor。</li>
+</ol>
+]]></content>
+      
+        
+        <tags>
+            
+            <tag> 软件 </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
       <title><![CDATA[A Few Words]]></title>
       <url>/2017/04/15/A-few-words/</url>
       <content type="html"><![CDATA[<ol>
@@ -108,14 +130,6 @@
     </entry>
     
     <entry>
-      <title><![CDATA[Tutu_Speak]]></title>
-      <url>/2017/04/13/tutu_speak/</url>
-      <content type="html"><![CDATA[<h3 id="1-年轻的时候不挑地方最好的，不挑钱最多的，而是挑最能让我成长的工作。"><a href="#1-年轻的时候不挑地方最好的，不挑钱最多的，而是挑最能让我成长的工作。" class="headerlink" title="1. 年轻的时候不挑地方最好的，不挑钱最多的，而是挑最能让我成长的工作。"></a>1. 年轻的时候不挑地方最好的，不挑钱最多的，而是挑最能让我成长的工作。</h3><h3 id="2-什么样的理由都解释不了我失败的事实。"><a href="#2-什么样的理由都解释不了我失败的事实。" class="headerlink" title="2. 什么样的理由都解释不了我失败的事实。"></a>2. 什么样的理由都解释不了我失败的事实。</h3>]]></content>
-      
-        
-    </entry>
-    
-    <entry>
       <title><![CDATA[Hello World]]></title>
       <url>/2017/04/13/hello-world/</url>
       <content type="html"><![CDATA[<h3 id="1-2017年04月13日20-31-35"><a href="#1-2017年04月13日20-31-35" class="headerlink" title="1. 2017年04月13日20:31:35"></a>1. 2017年04月13日20:31:35</h3><h3 id="2-记录一下自己的第一篇文章"><a href="#2-记录一下自己的第一篇文章" class="headerlink" title="2. 记录一下自己的第一篇文章"></a>2. 记录一下自己的第一篇文章</h3><h3 id="3-甩掉之前所有的不愉快"><a href="#3-甩掉之前所有的不愉快" class="headerlink" title="3. 甩掉之前所有的不愉快"></a>3. 甩掉之前所有的不愉快</h3><h3 id="4-人生没有什么坎是过不去的"><a href="#4-人生没有什么坎是过不去的" class="headerlink" title="4. 人生没有什么坎是过不去的"></a>4. 人生没有什么坎是过不去的</h3><h3 id="5-后面的日子我会努力"><a href="#5-后面的日子我会努力" class="headerlink" title="5. 后面的日子我会努力"></a>5. 后面的日子我会努力</h3><pre><code>tutu_oo
@@ -127,6 +141,14 @@
             <tag> First </tag>
             
         </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[Tutu_Speak]]></title>
+      <url>/2017/04/13/tutu_speak/</url>
+      <content type="html"><![CDATA[<h3 id="1-年轻的时候不挑地方最好的，不挑钱最多的，而是挑最能让我成长的工作。"><a href="#1-年轻的时候不挑地方最好的，不挑钱最多的，而是挑最能让我成长的工作。" class="headerlink" title="1. 年轻的时候不挑地方最好的，不挑钱最多的，而是挑最能让我成长的工作。"></a>1. 年轻的时候不挑地方最好的，不挑钱最多的，而是挑最能让我成长的工作。</h3><h3 id="2-什么样的理由都解释不了我失败的事实。"><a href="#2-什么样的理由都解释不了我失败的事实。" class="headerlink" title="2. 什么样的理由都解释不了我失败的事实。"></a>2. 什么样的理由都解释不了我失败的事实。</h3>]]></content>
+      
         
     </entry>
     
