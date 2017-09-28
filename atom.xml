@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://github.com/tutuoo/"/>
-  <updated>2017-06-07T05:52:21.000Z</updated>
+  <updated>2017-09-28T12:54:07.000Z</updated>
   <id>https://github.com/tutuoo/</id>
   
   <author>
@@ -16,20 +16,67 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>一些爱不释手的 Chrome 插件</title>
+    <link href="https://github.com/tutuoo/2017/09/28/%E4%B8%80%E4%BA%9B%E7%88%B1%E4%B8%8D%E9%87%8A%E6%89%8B%E7%9A%84-Chrome-%E6%8F%92%E4%BB%B6/"/>
+    <id>https://github.com/tutuoo/2017/09/28/一些爱不释手的-Chrome-插件/</id>
+    <published>2017-09-28T12:43:27.000Z</published>
+    <updated>2017-09-28T12:54:07.000Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="1-印象笔记-剪藏"><a href="#1-印象笔记-剪藏" class="headerlink" title="1. 印象笔记-剪藏"></a>1. 印象笔记-剪藏</h4><p><img src="http://opmmds7g1.bkt.clouddn.com/md/1506599088457.png" width="62"></p>
+<p>食用效果：可以一键截图网页正文，或者整个网页，部分区域，任你选，然后保存到你指定的文件目录。 效果不要太赞~网页版看到一半，一键保存，出门拿起手机继续看，当然还有更多功能~<br>食用方式：配合印象笔记 PC 版本或者手机版<br>（ps：码字的时候一个同事推荐了印象笔记手机版，说其中有个功能可以把手写在纸上的图文更清晰的转化成图片保存起来，用来复习啊，打印啊都是个不错的选择）<br> <a id="more"></a></p>
+<h4 id="2-Vysor"><a href="#2-Vysor" class="headerlink" title="2. Vysor"></a>2. Vysor</h4><p><img src="http://opmmds7g1.bkt.clouddn.com/md/1506598979874.png" width="58"></p>
+<p>食用效果：一款 （通过USB，不支持Wi-Fi连接）共享手机屏幕在电脑上的插件，可以通过电脑点击，触摸，来控制手机，实现无延迟操作。<br><img src="http://opmmds7g1.bkt.clouddn.com/md/1506576020806.gif" width="300"><br>如上图所示，可以直接通过电脑桌面来控制手机（注意小米手机可能需要打开触摸相关权限），破解版本和不破解的区别就在于清晰度了。上图我们通过设置修改了画质。</p>
+<p>食用方式：因为完整版本需要收费，下面提供破解版本，下载完打开 Chrome 管理插件页面，把压缩包解压导入即可。<br>食用地址：<a href="http://pan.baidu.com/s/1gfMTEN5" target="_blank" rel="external">点击下载</a></p>
+<h4 id="3-网盘助手"><a href="#3-网盘助手" class="headerlink" title="3. 网盘助手"></a>3. 网盘助手</h4><p><img src="http://opmmds7g1.bkt.clouddn.com/md/1506578480736.png" width="66"><br>食用效果：可以方便的把网盘的下载地址导出到aria2/aria2-rpc，支持YAAW，然后通过第三方下载工具下载，如迅雷，uTorrent。<br>食用方式：通过 Google 商店来下载(需要科学上网)</p>
+<h4 id="4-AdBlock"><a href="#4-AdBlock" class="headerlink" title="4. AdBlock"></a>4. AdBlock</h4><p><img src="http://opmmds7g1.bkt.clouddn.com/md/1506596228624.png" width="60"><br>食用效果：最受欢迎的Chrome扩展，拥有超过4000万用户！屏蔽整个互联网上的广告。<br>食用方式：通过 Google 商店来下载(需要科学上网)</p>
+<h4 id="5-Isometric-Contributions"><a href="#5-Isometric-Contributions" class="headerlink" title="5. Isometric Contributions"></a>5. Isometric Contributions</h4><p><img src="http://opmmds7g1.bkt.clouddn.com/md/1506596421299.png" width="59"><br>食用效果：</p>
+<p>以下截图取自 Android 之神 『Jake Wharton』<br>这是我们正常看到的 Github 上 提交的信息情况<br><img src="http://opmmds7g1.bkt.clouddn.com/md/1506596461886.png" width="728"><br>下图是用了插件后的效果<br><img src="http://opmmds7g1.bkt.clouddn.com/md/1506596562020.png" width="728"><br>是不是很壮观，没错，这插件就是看看用的。</p>
+<p>食用方式：通过 Google 商店来下载(需要科学上网)</p>
+<h4 id="6-JSON-handle"><a href="#6-JSON-handle" class="headerlink" title="6. JSON-handle"></a>6. JSON-handle</h4><p><img src="http://opmmds7g1.bkt.clouddn.com/md/1506596721227.png" width="67"><br>食用效果：<br><img src="http://opmmds7g1.bkt.clouddn.com/md/1506596824853.png" width="1024"><br>很漂亮的格式化 Json 数据格式插件~~<br>食用方式：通过 Google 商店来下载(需要科学上网)</p>
+<h4 id="7-LastPass"><a href="#7-LastPass" class="headerlink" title="7. LastPass"></a>7. LastPass</h4><p><img src="http://opmmds7g1.bkt.clouddn.com/md/1506596905832.png" width="63"><br>食用效果：还在为登录各大网站的账号密码而发愁么? 不妨来试试 LastPass，他可以帮助我们记住所有登录过的网站，下次就可以直接登录啦~~<br>食用方式：通过 Google 商店来下载(需要科学上网)</p>
+<h4 id="8-Octotree"><a href="#8-Octotree" class="headerlink" title="8. Octotree"></a>8. Octotree</h4><p><img src="http://opmmds7g1.bkt.clouddn.com/md/1506596988752.png" width="51"><br>食用效果：<br>有时候我们查看 Github 项目时只想看看一部分内容，又不想下下来，一层层点进去又太繁琐，此插件可以使得浏览器的左边出现侧边栏，来进行各个文件的查看。<br><img src="http://opmmds7g1.bkt.clouddn.com/md/1506597045931.png" width="1915"></p>
+<p>食用方式：通过 Google 商店来下载(需要科学上网)</p>
+<h4 id="9-OneTab"><a href="#9-OneTab" class="headerlink" title="9. OneTab"></a>9. OneTab</h4><p><img src="http://opmmds7g1.bkt.clouddn.com/md/1506597568966.png" width="59"><br>食用效果：<br>有时候标签页开了很多，又舍不得关，下次又想用，这时候 OneTab 就起到作用了。<br>他可以保存便签页，想恢复就恢复，下次打开又满状态复活！<br><img src="http://opmmds7g1.bkt.clouddn.com/md/1506597621831.png" width="622"></p>
+<p>食用方式：通过 Google 商店来下载(需要科学上网)</p>
+<h4 id="10-Postman"><a href="#10-Postman" class="headerlink" title="10. Postman"></a>10. Postman</h4><p><img src="http://opmmds7g1.bkt.clouddn.com/md/1506597779040.png" width="65"><br>食用效果：<br>接口调试工具，反正我觉得挺好用的，一直在用~~</p>
+<p>食用方式：通过 Google 商店来下载(需要科学上网)</p>
+<h4 id="11-Vimium"><a href="#11-Vimium" class="headerlink" title="11. Vimium"></a>11. Vimium</h4><p><img src="http://opmmds7g1.bkt.clouddn.com/md/1506598034086.png" width="58"><br>食用效果：<br>此乃神器是也，有了他浏览网页再也不需要鼠标了~~<br><img src="http://opmmds7g1.bkt.clouddn.com/md/1506598265182.png" width="840"><br>安装完之后，通过 『shift + ? 』 唤出帮主页面<br>平常上网的时候<br>『J』 往下<br>『K』往上<br>『D』往下一段<br>『U』往上一段<br>『GG』跳到顶部<br>『Shift + G』跳到底部<br>『F』之后按提示跳转网页<br>配合 Shift 按会使网页进入后台打开<br>当然还有更多的小技巧~~</p>
+<p>食用方式：通过 Google 商店来下载(需要科学上网)</p>
+<h4 id="12-掘金"><a href="#12-掘金" class="headerlink" title="12. 掘金"></a>12. 掘金</h4><p><img src="http://opmmds7g1.bkt.clouddn.com/md/1506598704739.png" width="62"><br>食用效果：<br>可以让你的 tab 标签页不在单调~<br><img src="http://opmmds7g1.bkt.clouddn.com/md/1506598727762.png" width="1914"><br>目前有以下版块可以选择。程序猿必备啊<br><img src="http://opmmds7g1.bkt.clouddn.com/md/1506598761046.png" width="186"></p>
+<p>食用方式：通过 Google 商店来下载(需要科学上网)</p>
+<h4 id="13-Proxy-SwitchyOmega"><a href="#13-Proxy-SwitchyOmega" class="headerlink" title="13. Proxy SwitchyOmega"></a>13. Proxy SwitchyOmega</h4><p><img src="http://opmmds7g1.bkt.clouddn.com/md/1506599362009.png" width="64"><br>食用效果：轻松快捷地管理和切换多个代理设置。 科学上网必备。</p>
+<p>食用方式：通过 Google 商店来下载(需要科学上网)</p>
+<h4 id="14-斗鱼HTML5播放器"><a href="#14-斗鱼HTML5播放器" class="headerlink" title="14. 斗鱼HTML5播放器"></a>14. 斗鱼HTML5播放器</h4><p><img src="http://opmmds7g1.bkt.clouddn.com/md/1506598828500.png" width="63"><br>食用效果：斗鱼不支持 HTML5播放，有了此插件后，电脑再也不烫了~ 哈哈给斗鱼打波广告<br>S7 看比赛必备啊  加油中国队！加油厂长！</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;1-印象笔记-剪藏&quot;&gt;&lt;a href=&quot;#1-印象笔记-剪藏&quot; class=&quot;headerlink&quot; title=&quot;1. 印象笔记-剪藏&quot;&gt;&lt;/a&gt;1. 印象笔记-剪藏&lt;/h4&gt;&lt;p&gt;&lt;img src=&quot;http://opmmds7g1.bkt.clouddn.com/md/1506599088457.png&quot; width=&quot;62&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;食用效果：可以一键截图网页正文，或者整个网页，部分区域，任你选，然后保存到你指定的文件目录。 效果不要太赞~网页版看到一半，一键保存，出门拿起手机继续看，当然还有更多功能~&lt;br&gt;食用方式：配合印象笔记 PC 版本或者手机版&lt;br&gt;（ps：码字的时候一个同事推荐了印象笔记手机版，说其中有个功能可以把手写在纸上的图文更清晰的转化成图片保存起来，用来复习啊，打印啊都是个不错的选择）&lt;br&gt;
+    
+    </summary>
+    
+    
+      <category term="Chrome" scheme="https://github.com/tutuoo/tags/Chrome/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Kotlin 学习笔记（1）基本语法</title>
-    <link href="https://github.com/tutuoo/2017/06/07/kotlin/"/>
-    <id>https://github.com/tutuoo/2017/06/07/kotlin/</id>
+    <link href="https://github.com/tutuoo/2017/06/07/kotlin(1)/"/>
+    <id>https://github.com/tutuoo/2017/06/07/kotlin(1)/</id>
     <published>2017-06-07T05:48:22.000Z</published>
-    <updated>2017-06-07T05:52:21.000Z</updated>
+    <updated>2017-09-28T12:56:06.000Z</updated>
     
     <content type="html"><![CDATA[<p>关于 Kotlin 的安装，Android studio 3.0及以上自带，其他的可以通过搜索插件 Kotlin 来进行安装。下面来说说有关 Kotlin 的语法。</p>
 <p>以下是本人的学习笔记，入有任何不妥之处，随时欢迎拍砖指正。<br>谢谢 <code>^_^</code></p>
-<h3 id="1-Kotlin-Android-扩展"><a href="#1-Kotlin-Android-扩展" class="headerlink" title="1. Kotlin Android 扩展"></a>1. Kotlin Android 扩展</h3><p>Kotlin 插件自带有安卓扩展，因此不需要再单独安装额外插件。</p>
-<p>我们仅需要在项目 module 的 build.gradle 文件中启用 Gradle 安卓扩展插件即可：</p>
+<h3 id="1-Kotlin-Android-扩展"><a href="#1-Kotlin-Android-扩展" class="headerlink" title="1. Kotlin Android 扩展"></a>1. Kotlin Android 扩展</h3><p>Kotlin 插件自带有安卓扩展，因此不需要再单独安装额外插件。<br>我们直接 new Kotlin Activity 后出现提示让配置 Kotlin<br><img src="http://opmmds7g1.bkt.clouddn.com/md/1496816384628.png" width="1279"><br>通过点击来自动导入 Kotlin 所需要的配置<br><img src="http://opmmds7g1.bkt.clouddn.com/md/1496816435333.png" width="444"></p>
+<p>实际上在项目的 Gradle上多了一行<br><img src="http://opmmds7g1.bkt.clouddn.com/md/1496816573716.png" width="716"></p>
+<p>项目 module 的 build.gradle 中多了<br><img src="http://opmmds7g1.bkt.clouddn.com/md/1496816641695.png" width="759"><br>apply 多了<br><img src="http://opmmds7g1.bkt.clouddn.com/md/1496816700154.png" width="434"><br> <a id="more"></a><br>以上都是自动生成的</p>
+<p>然后我们需要在项目 module 的 build.gradle 文件中添加以下代码</p>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">apply plugin: &apos;kotlin-android-extensions&apos;</div></pre></td></tr></table></figure>
 <p>这样我们就可以用简写了，比如在 XML 中定义一个 TextView</p>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line">&lt;TextView</div><div class="line">        android:id=&quot;@+id/hello&quot;</div><div class="line">        android:layout_width=&quot;wrap_content&quot;</div><div class="line">        android:layout_height=&quot;wrap_content&quot;</div><div class="line">        android:text=&quot;Hello World!&quot;/&gt;</div></pre></td></tr></table></figure>
-<a id="more"></a>
 <p>我这里 ID 设置为『hello』那么我们在 Activity 中的代码就变成了</p>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div></pre></td><td class="code"><pre><div class="line">class KotlinActivity : AppCompatActivity() &#123;</div><div class="line"></div><div class="line">    override fun onCreate(savedInstanceState: Bundle?) &#123;</div><div class="line">        super.onCreate(savedInstanceState)</div><div class="line">        setContentView(R.layout.activity_kotlin)</div><div class="line">        hello.text = &quot;你是不是傻&quot;</div><div class="line">    &#125;</div><div class="line">&#125;</div></pre></td></tr></table></figure>
 <p>这样直接通过 hello.text 来设置内容，而不是原来长长的</p>
@@ -131,11 +178,9 @@
     
       &lt;p&gt;关于 Kotlin 的安装，Android studio 3.0及以上自带，其他的可以通过搜索插件 Kotlin 来进行安装。下面来说说有关 Kotlin 的语法。&lt;/p&gt;
 &lt;p&gt;以下是本人的学习笔记，入有任何不妥之处，随时欢迎拍砖指正。&lt;br&gt;谢谢 &lt;code&gt;^_^&lt;/code&gt;&lt;/p&gt;
-&lt;h3 id=&quot;1-Kotlin-Android-扩展&quot;&gt;&lt;a href=&quot;#1-Kotlin-Android-扩展&quot; class=&quot;headerlink&quot; title=&quot;1. Kotlin Android 扩展&quot;&gt;&lt;/a&gt;1. Kotlin Android 扩展&lt;/h3&gt;&lt;p&gt;Kotlin 插件自带有安卓扩展，因此不需要再单独安装额外插件。&lt;/p&gt;
-&lt;p&gt;我们仅需要在项目 module 的 build.gradle 文件中启用 Gradle 安卓扩展插件即可：&lt;/p&gt;
-&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;apply plugin: &amp;apos;kotlin-android-extensions&amp;apos;&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;这样我们就可以用简写了，比如在 XML 中定义一个 TextView&lt;/p&gt;
-&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;2&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;3&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;4&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;5&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;&amp;lt;TextView&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;        android:id=&amp;quot;@+id/hello&amp;quot;&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;        android:layout_width=&amp;quot;wrap_content&amp;quot;&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;        android:layout_height=&amp;quot;wrap_content&amp;quot;&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;        android:text=&amp;quot;Hello World!&amp;quot;/&amp;gt;&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;h3 id=&quot;1-Kotlin-Android-扩展&quot;&gt;&lt;a href=&quot;#1-Kotlin-Android-扩展&quot; class=&quot;headerlink&quot; title=&quot;1. Kotlin Android 扩展&quot;&gt;&lt;/a&gt;1. Kotlin Android 扩展&lt;/h3&gt;&lt;p&gt;Kotlin 插件自带有安卓扩展，因此不需要再单独安装额外插件。&lt;br&gt;我们直接 new Kotlin Activity 后出现提示让配置 Kotlin&lt;br&gt;&lt;img src=&quot;http://opmmds7g1.bkt.clouddn.com/md/1496816384628.png&quot; width=&quot;1279&quot;/&gt;&lt;br&gt;通过点击来自动导入 Kotlin 所需要的配置&lt;br&gt;&lt;img src=&quot;http://opmmds7g1.bkt.clouddn.com/md/1496816435333.png&quot; width=&quot;444&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;实际上在项目的 Gradle上多了一行&lt;br&gt;&lt;img src=&quot;http://opmmds7g1.bkt.clouddn.com/md/1496816573716.png&quot; width=&quot;716&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;项目 module 的 build.gradle 中多了&lt;br&gt;&lt;img src=&quot;http://opmmds7g1.bkt.clouddn.com/md/1496816641695.png&quot; width=&quot;759&quot;/&gt;&lt;br&gt;apply 多了&lt;br&gt;&lt;img src=&quot;http://opmmds7g1.bkt.clouddn.com/md/1496816700154.png&quot; width=&quot;434&quot;/&gt;&lt;br&gt;
     
     </summary>
     
@@ -202,37 +247,6 @@
     
     
       <category term="读后感" scheme="https://github.com/tutuoo/tags/%E8%AF%BB%E5%90%8E%E6%84%9F/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>推荐一些 Mac 软件带破解</title>
-    <link href="https://github.com/tutuoo/2017/04/17/Mac-app/"/>
-    <id>https://github.com/tutuoo/2017/04/17/Mac-app/</id>
-    <published>2017-04-17T05:20:45.000Z</published>
-    <updated>2017-04-17T05:36:20.000Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="Vysor"><a href="#Vysor" class="headerlink" title="Vysor"></a>Vysor</h1><h4 id="Vysor是一款Chrome应用（通过USB电缆，不支持Wi-Fi连接）共享手机屏幕在电脑上的插件，可以通过电脑点击，触摸，来控制手机，实现无延迟操作。"><a href="#Vysor是一款Chrome应用（通过USB电缆，不支持Wi-Fi连接）共享手机屏幕在电脑上的插件，可以通过电脑点击，触摸，来控制手机，实现无延迟操作。" class="headerlink" title="Vysor是一款Chrome应用（通过USB电缆，不支持Wi-Fi连接）共享手机屏幕在电脑上的插件，可以通过电脑点击，触摸，来控制手机，实现无延迟操作。"></a>Vysor是一款Chrome应用（通过USB电缆，不支持Wi-Fi连接）共享手机屏幕在电脑上的插件，可以通过电脑点击，触摸，来控制手机，实现无延迟操作。</h4><p>下载地址：<a href="https://chrome.google.com/webstore/detail/vysor/gidgenkbbabolejbgbpnhbimgjbffefm" target="_blank" rel="external">Chrome 商店（需要翻墙）</a></p>
-<h4 id="默认是免费版本的速度只有500K，下面通过修改配置内容来达到4M-的速度。（亲测适用于1-7-2，1-7-3）"><a href="#默认是免费版本的速度只有500K，下面通过修改配置内容来达到4M-的速度。（亲测适用于1-7-2，1-7-3）" class="headerlink" title="默认是免费版本的速度只有500K，下面通过修改配置内容来达到4M 的速度。（亲测适用于1.7.2，1.7.3）"></a>默认是免费版本的速度只有500K，下面通过修改配置内容来达到4M 的速度。（亲测适用于1.7.2，1.7.3）</h4><ol>
-<li>谷歌地址栏输入 chrome://version/ 打开关于 找到个人资料路径<br><img src="/images/route.jpg" alt=""><br>可能有些童鞋看不到文件夹，是因为 Mac 默认是不显示隐藏文件的。我们使用快捷键 command + shift + .    来开启或者关闭。<br>以下是我的路径/Users/tuhonghui/Library/Application Support/Google/Chrome/Default，然后打开Extensions文件夹，里面是你 Chrome 所有的插件。</li>
-<li>地址栏输入chrome://extensions/，找到Vysor的版本号，去Extensions文件夹里打开相对应的文件夹。<a id="more"></a></li>
-<li>找到uglify.js，打开编辑，搜索_il</li>
-<li>把_il:Te.a() 替换为 _il:true</li>
-<li>保存好，重新开启 Vysor。</li>
-</ol>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h1 id=&quot;Vysor&quot;&gt;&lt;a href=&quot;#Vysor&quot; class=&quot;headerlink&quot; title=&quot;Vysor&quot;&gt;&lt;/a&gt;Vysor&lt;/h1&gt;&lt;h4 id=&quot;Vysor是一款Chrome应用（通过USB电缆，不支持Wi-Fi连接）共享手机屏幕在电脑上的插件，可以通过电脑点击，触摸，来控制手机，实现无延迟操作。&quot;&gt;&lt;a href=&quot;#Vysor是一款Chrome应用（通过USB电缆，不支持Wi-Fi连接）共享手机屏幕在电脑上的插件，可以通过电脑点击，触摸，来控制手机，实现无延迟操作。&quot; class=&quot;headerlink&quot; title=&quot;Vysor是一款Chrome应用（通过USB电缆，不支持Wi-Fi连接）共享手机屏幕在电脑上的插件，可以通过电脑点击，触摸，来控制手机，实现无延迟操作。&quot;&gt;&lt;/a&gt;Vysor是一款Chrome应用（通过USB电缆，不支持Wi-Fi连接）共享手机屏幕在电脑上的插件，可以通过电脑点击，触摸，来控制手机，实现无延迟操作。&lt;/h4&gt;&lt;p&gt;下载地址：&lt;a href=&quot;https://chrome.google.com/webstore/detail/vysor/gidgenkbbabolejbgbpnhbimgjbffefm&quot;&gt;Chrome 商店（需要翻墙）&lt;/a&gt;&lt;/p&gt;
-&lt;h4 id=&quot;默认是免费版本的速度只有500K，下面通过修改配置内容来达到4M-的速度。（亲测适用于1-7-2，1-7-3）&quot;&gt;&lt;a href=&quot;#默认是免费版本的速度只有500K，下面通过修改配置内容来达到4M-的速度。（亲测适用于1-7-2，1-7-3）&quot; class=&quot;headerlink&quot; title=&quot;默认是免费版本的速度只有500K，下面通过修改配置内容来达到4M 的速度。（亲测适用于1.7.2，1.7.3）&quot;&gt;&lt;/a&gt;默认是免费版本的速度只有500K，下面通过修改配置内容来达到4M 的速度。（亲测适用于1.7.2，1.7.3）&lt;/h4&gt;&lt;ol&gt;
-&lt;li&gt;谷歌地址栏输入 chrome://version/ 打开关于 找到个人资料路径&lt;br&gt;&lt;img src=&quot;/images/route.jpg&quot; alt=&quot;&quot;&gt;&lt;br&gt;可能有些童鞋看不到文件夹，是因为 Mac 默认是不显示隐藏文件的。我们使用快捷键 command + shift + .    来开启或者关闭。&lt;br&gt;以下是我的路径/Users/tuhonghui/Library/Application Support/Google/Chrome/Default，然后打开Extensions文件夹，里面是你 Chrome 所有的插件。&lt;/li&gt;
-&lt;li&gt;地址栏输入chrome://extensions/，找到Vysor的版本号，去Extensions文件夹里打开相对应的文件夹。
-    
-    </summary>
-    
-    
-      <category term="软件" scheme="https://github.com/tutuoo/tags/%E8%BD%AF%E4%BB%B6/"/>
     
   </entry>
   
@@ -359,24 +373,6 @@
   </entry>
   
   <entry>
-    <title>Tutu_Speak</title>
-    <link href="https://github.com/tutuoo/2017/04/13/tutu_speak/"/>
-    <id>https://github.com/tutuoo/2017/04/13/tutu_speak/</id>
-    <published>2017-04-13T06:38:40.000Z</published>
-    <updated>2017-04-20T13:31:56.000Z</updated>
-    
-    <content type="html"><![CDATA[<h3 id="1-年轻的时候不挑地方最好的，不挑钱最多的，而是挑最能让我成长的工作。"><a href="#1-年轻的时候不挑地方最好的，不挑钱最多的，而是挑最能让我成长的工作。" class="headerlink" title="1. 年轻的时候不挑地方最好的，不挑钱最多的，而是挑最能让我成长的工作。"></a>1. 年轻的时候不挑地方最好的，不挑钱最多的，而是挑最能让我成长的工作。</h3><h3 id="2-什么样的理由都解释不了我失败的事实。"><a href="#2-什么样的理由都解释不了我失败的事实。" class="headerlink" title="2. 什么样的理由都解释不了我失败的事实。"></a>2. 什么样的理由都解释不了我失败的事实。</h3><h3 id="3-经济不独立，靠山山会倒，靠水水会流，唯有靠自己，才是王道。"><a href="#3-经济不独立，靠山山会倒，靠水水会流，唯有靠自己，才是王道。" class="headerlink" title="3. 经济不独立，靠山山会倒，靠水水会流，唯有靠自己，才是王道。"></a>3. 经济不独立，靠山山会倒，靠水水会流，唯有靠自己，才是王道。</h3>]]></content>
-    
-    <summary type="html">
-    
-      &lt;h3 id=&quot;1-年轻的时候不挑地方最好的，不挑钱最多的，而是挑最能让我成长的工作。&quot;&gt;&lt;a href=&quot;#1-年轻的时候不挑地方最好的，不挑钱最多的，而是挑最能让我成长的工作。&quot; class=&quot;headerlink&quot; title=&quot;1. 年轻的时候不挑地方最好的，不挑钱最多的
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
     <title>Hello World</title>
     <link href="https://github.com/tutuoo/2017/04/13/hello-world/"/>
     <id>https://github.com/tutuoo/2017/04/13/hello-world/</id>
@@ -394,6 +390,24 @@
     
     
       <category term="First" scheme="https://github.com/tutuoo/tags/First/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Tutu_Speak</title>
+    <link href="https://github.com/tutuoo/2017/04/13/tutu_speak/"/>
+    <id>https://github.com/tutuoo/2017/04/13/tutu_speak/</id>
+    <published>2017-04-13T06:38:40.000Z</published>
+    <updated>2017-04-20T13:31:56.000Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="1-年轻的时候不挑地方最好的，不挑钱最多的，而是挑最能让我成长的工作。"><a href="#1-年轻的时候不挑地方最好的，不挑钱最多的，而是挑最能让我成长的工作。" class="headerlink" title="1. 年轻的时候不挑地方最好的，不挑钱最多的，而是挑最能让我成长的工作。"></a>1. 年轻的时候不挑地方最好的，不挑钱最多的，而是挑最能让我成长的工作。</h3><h3 id="2-什么样的理由都解释不了我失败的事实。"><a href="#2-什么样的理由都解释不了我失败的事实。" class="headerlink" title="2. 什么样的理由都解释不了我失败的事实。"></a>2. 什么样的理由都解释不了我失败的事实。</h3><h3 id="3-经济不独立，靠山山会倒，靠水水会流，唯有靠自己，才是王道。"><a href="#3-经济不独立，靠山山会倒，靠水水会流，唯有靠自己，才是王道。" class="headerlink" title="3. 经济不独立，靠山山会倒，靠水水会流，唯有靠自己，才是王道。"></a>3. 经济不独立，靠山山会倒，靠水水会流，唯有靠自己，才是王道。</h3>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;1-年轻的时候不挑地方最好的，不挑钱最多的，而是挑最能让我成长的工作。&quot;&gt;&lt;a href=&quot;#1-年轻的时候不挑地方最好的，不挑钱最多的，而是挑最能让我成长的工作。&quot; class=&quot;headerlink&quot; title=&quot;1. 年轻的时候不挑地方最好的，不挑钱最多的
+    
+    </summary>
+    
     
   </entry>
   
