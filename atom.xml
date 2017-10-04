@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://github.com/tutuoo/"/>
-  <updated>2017-09-28T12:54:07.000Z</updated>
+  <updated>2017-10-04T08:31:11.000Z</updated>
   <id>https://github.com/tutuoo/</id>
   
   <author>
@@ -16,11 +16,111 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>那些让我效率倍增的 Mac 软件</title>
+    <link href="https://github.com/tutuoo/2017/10/04/%E9%82%A3%E4%BA%9B%E8%AE%A9%E6%88%91%E6%95%88%E7%8E%87%E5%80%8D%E5%A2%9E%E7%9A%84-Mac-%E8%BD%AF%E4%BB%B6/"/>
+    <id>https://github.com/tutuoo/2017/10/04/那些让我效率倍增的-Mac-软件/</id>
+    <published>2017-10-04T08:28:02.000Z</published>
+    <updated>2017-10-04T08:31:11.000Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote>
+<p>图图流着口水盯上了 Mac 软件<br>以下分享的很多都需要收费，公众号回复『软件』，提供破解版本，若没有对应软件可能是免费，可能遗漏，有实力的童鞋请支持正版！<br>回复『链接』 有惊喜。<br>若有出错，请后台指正，目前暂未开通留言，谢谢！</p>
+</blockquote>
+<h4 id="1-Paste"><a href="#1-Paste" class="headerlink" title="1. Paste"></a>1. Paste</h4><p><img src="http://opmmds7g1.bkt.clouddn.com/md/1506770429314.png" width="140"></p>
+<p>食用效果：一个漂亮的记录复制粘贴工具，可以保留图文，自定义标签组，好用又漂亮~</p>
+<p><img src="http://opmmds7g1.bkt.clouddn.com/md/1506769112231.png" width="1920"></p>
+<p>食用方式：Command + 数字1~9 就是粘贴对应的标签。<br><a id="more"></a></p>
+<h4 id="2-MindNode"><a href="#2-MindNode" class="headerlink" title="2. MindNode"></a>2. MindNode</h4><p><img src="http://opmmds7g1.bkt.clouddn.com/md/1506770444858.png" width="154"></p>
+<p>食用效果：一个极简的思维导图工具，简约，小巧，各种类型的图，也是美美哒。</p>
+<p><img src="http://opmmds7g1.bkt.clouddn.com/md/1506770091084.png" width="1246"></p>
+<p>食用方式：打开即食。</p>
+<h4 id="3-Alfred-3"><a href="#3-Alfred-3" class="headerlink" title="3. Alfred 3"></a>3. Alfred 3</h4><p><img src="http://opmmds7g1.bkt.clouddn.com/md/1506770413345.png" width="159"></p>
+<p>黑帽子，我相信知道的人很多，用的人也很多，功能太强大了，有了他，自带的Spotlight 早就被我丢了…</p>
+<p>食用效果：<br>小到可以直接在搜索框算一些简单的算术</p>
+<p><img src="http://opmmds7g1.bkt.clouddn.com/md/1506770587309.png" width="567"></p>
+<p>大到配合 Dash 直接搜索 API 文档。( 什么是 Dash? 下一个就介绍了)</p>
+<p><img src="http://opmmds7g1.bkt.clouddn.com/md/1506771226660.gif" width="800"></p>
+<p>如果你现在想买一个东西，比方说在淘宝或者京东，一般情况是：<br>打开浏览器 -&gt; 输入链接，或者打开书签 - &gt; 然后在搜索栏输入你要的。<br>而现在我们只需要 打开 Alfred 3 输入你想要买的就够了。<br>虽然仅仅只是把一些过程省略。<br>但是时间就是金钱。<br>下面我分别进行了，淘宝搜索，京东搜索，和维基百科的查询。<br>别问我为什么查零食，我真的不是吃货（捂脸）！</p>
+<p><img src="http://opmmds7g1.bkt.clouddn.com/md/1506772298394.gif" width="800"></p>
+<p>关于如何配置搜索：来张配图。</p>
+<p><img src="http://opmmds7g1.bkt.clouddn.com/md/1506863551723.png" width="1100"></p>
+<p>想自定义其他网站，就去那个网站搜索一个东西，然后把搜索关键字的位置改成 『 {query} 』就好了。</p>
+<p>食用方式：此物功能太多，我也只食用了冰山一角，但是已经提高了不少效率，各位吃友加油!</p>
+<h4 id="4-Dash"><a href="#4-Dash" class="headerlink" title="4. Dash"></a>4. Dash</h4><p><img src="http://opmmds7g1.bkt.clouddn.com/md/1507086920807.png" width="167"></p>
+<p>食用效果：一个API文档浏览器和代码段管理器。 Dash帮助您存储代码片段，以及即时搜索和浏览您可能使用的几乎任何API的文档。</p>
+<p><img src="http://opmmds7g1.bkt.clouddn.com/md/1507087058709.png" width="928"></p>
+<p>如上图所示，我下载了 Android Css 和 JavaScript。<br>上边的动图就是我通过自定义关键字 ad 为 Android  来查询 Android 相关 API</p>
+<p>食用方式：配合上面的  Alfred 3 美滋滋  效果很强大，待挖掘。</p>
+<h4 id="5-ScreenFloat"><a href="#5-ScreenFloat" class="headerlink" title="5. ScreenFloat"></a>5. ScreenFloat</h4><p><img src="http://opmmds7g1.bkt.clouddn.com/md/1506773034823.png" width="147"></p>
+<p>食用效果：一个方便的截屏工具，他可以让你截取的内容置顶，对于多桌面来说是个很好用的工具，可以在一个桌面截图，另一个桌面参照。有自己独立的仓库可以增删。</p>
+<p><img src="http://opmmds7g1.bkt.clouddn.com/md/1507079903807.gif" width="600"></p>
+<p>食用方式：开盖即食。</p>
+<h4 id="6-CheatSheet"><a href="#6-CheatSheet" class="headerlink" title="6. CheatSheet"></a>6. CheatSheet</h4><p><img src="http://opmmds7g1.bkt.clouddn.com/md/1507090810208.png" width="151"></p>
+<p>食用效果：可以查看任意软件的热键，极其方便。</p>
+<p>食用方式：长按 Command 即可。</p>
+<h4 id="7-Karabiner-Elements"><a href="#7-Karabiner-Elements" class="headerlink" title="7. Karabiner-Elements"></a>7. Karabiner-Elements</h4><p><img src="http://opmmds7g1.bkt.clouddn.com/md/1507090971457.png" width="159"></p>
+<p>食用效果：爱折腾键盘键位可以试试，我自己把中英文切换键换成了 delete 这样擦除就不需要把手移过去，直接小拇指处理掉，贼方便。还有类似自定义组合件配合『J』『L』变成左右，『I』『,』变成上下，这样右下角的小键盘也可以忽略掉了~</p>
+<p>食用方式：单键可以直接改，组合键要自己去定义文件。</p>
+<h4 id="8-Tickeys-支持-Windows"><a href="#8-Tickeys-支持-Windows" class="headerlink" title="8. Tickeys (支持 Windows)"></a>8. Tickeys (支持 Windows)</h4><p><img src="http://opmmds7g1.bkt.clouddn.com/md/1507091456575.png" width="149"></p>
+<p>食用效果：可以让键盘模拟多种声音，享受打击快感。</p>
+<p>食用方式：开盖即食。</p>
+<h4 id="9-Flux-支持-Windows"><a href="#9-Flux-支持-Windows" class="headerlink" title="9. Flux (支持 Windows)"></a>9. Flux (支持 Windows)</h4><p><img src="http://opmmds7g1.bkt.clouddn.com/md/1507091578836.png" width="161"></p>
+<p>食用效果：保护眼睛必备。会跟随作息来调整屏幕色度。</p>
+<p>食用方式：开盖即食。</p>
+<h4 id="10-Bartender-2"><a href="#10-Bartender-2" class="headerlink" title="10. Bartender 2"></a>10. Bartender 2</h4><p><img src="http://opmmds7g1.bkt.clouddn.com/md/1507093526192.png" width="160"></p>
+<p>食用效果：可以把状态栏的小图标管理起来，隐藏或者收缩，这样就可以使得界面更加整洁了。</p>
+<p><img src="http://opmmds7g1.bkt.clouddn.com/md/1507093611812.png" width="929"></p>
+<p>我们正常情况下可能是上面这种情况。<br>如果我们使用了 Bartender 图片就变成了这样</p>
+<p><img src="http://opmmds7g1.bkt.clouddn.com/md/1507093660624.png" width="409"></p>
+<p>一个小眼镜 ico 就涵盖了所有的图标，点击可以展开来。当然 ico 的图标是可以更换的。</p>
+<p>食用方式：开盖即食。</p>
+<h4 id="11-奇妙清单-支持-Windows"><a href="#11-奇妙清单-支持-Windows" class="headerlink" title="11. 奇妙清单 (支持 Windows)"></a>11. 奇妙清单 (支持 Windows)</h4><p><img src="http://opmmds7g1.bkt.clouddn.com/md/1507094367789.png" width="145"></p>
+<p>食用效果：一个记录事件，可设置时间的日常软件，可以把事情记录上去，到设定的时间点会提醒，支持手机 app 非常方便。</p>
+<p><img src="http://opmmds7g1.bkt.clouddn.com/md/1507094723948.png" width="700"></p>
+<p>食用方式：事件可以分类型，完成时间。完成之后可以把他勾选掉，给人一种玩游戏把任务刷完的感觉，哈哈哈，满满成就感！</p>
+<h4 id="12-Moom"><a href="#12-Moom" class="headerlink" title="12. Moom"></a>12. Moom</h4><p><img src="http://opmmds7g1.bkt.clouddn.com/md/1507095034930.png" width="161"></p>
+<p>食用效果：一款用来改变当前窗口大小，位置的软件。左对齐，右对齐，居中，一键生效!</p>
+<p><img src="http://opmmds7g1.bkt.clouddn.com/md/1507096864141.gif" width="900"></p>
+<p>食用方式：开盖即食。</p>
+<h4 id="13-Manico"><a href="#13-Manico" class="headerlink" title="13. Manico"></a>13. Manico</h4><p><img src="http://opmmds7g1.bkt.clouddn.com/md/1507095147962.png" width="149"></p>
+<p>食用效果：一款自定义软件打开快捷键的软件，有了他再也不用把鼠标移到应用列表去了，一键打开，任意 DIY。也是我唯一正版的软件（捂脸）</p>
+<p>食用方式：开盖即食。</p>
+<h4 id="14-LICEcap-支持-Windows"><a href="#14-LICEcap-支持-Windows" class="headerlink" title="14. LICEcap (支持 Windows)"></a>14. LICEcap (支持 Windows)</h4><p><img src="http://opmmds7g1.bkt.clouddn.com/md/1507095431479.png" width="140"></p>
+<p>食用效果：一款录制任意大小 GIF 图的软件，小巧又方便。上面的动图我就是用这个录制的。</p>
+<p>食用方式：开盖即食。</p>
+<h4 id="15-TG-pro"><a href="#15-TG-pro" class="headerlink" title="15. TG-pro"></a>15. TG-pro</h4><p><img src="http://opmmds7g1.bkt.clouddn.com/md/1507095755184.png" width="147"></p>
+<p>食用效果：可以实时监控电脑各项性能指标，也可以手动开启风扇。</p>
+<p><img src="http://opmmds7g1.bkt.clouddn.com/md/1507095823963.png" width="797"></p>
+<p>食用方式：开盖即食。</p>
+<h4 id="16-MWeb"><a href="#16-MWeb" class="headerlink" title="16. MWeb"></a>16. MWeb</h4><p><img src="http://opmmds7g1.bkt.clouddn.com/md/1507096054685.png" width="167"></p>
+<p>食用效果：写作 Markdown 用，没用过别的，感觉挺不错的，还可以一键上传到印象笔记中，反正我觉得挺好用的。</p>
+<p>食用方式：开盖即食。</p>
+<h4 id="17-常用的点个名"><a href="#17-常用的点个名" class="headerlink" title="17. 常用的点个名"></a>17. 常用的点个名</h4><p>CleanMyMac，SourceTree，Sublime Text 不多说啦~</p>
+<p>最后祝大家中秋节快乐~ </p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;
+&lt;p&gt;图图流着口水盯上了 Mac 软件&lt;br&gt;以下分享的很多都需要收费，公众号回复『软件』，提供破解版本，若没有对应软件可能是免费，可能遗漏，有实力的童鞋请支持正版！&lt;br&gt;回复『链接』 有惊喜。&lt;br&gt;若有出错，请后台指正，目前暂未开通留言，谢谢！&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h4 id=&quot;1-Paste&quot;&gt;&lt;a href=&quot;#1-Paste&quot; class=&quot;headerlink&quot; title=&quot;1. Paste&quot;&gt;&lt;/a&gt;1. Paste&lt;/h4&gt;&lt;p&gt;&lt;img src=&quot;http://opmmds7g1.bkt.clouddn.com/md/1506770429314.png&quot; width=&quot;140&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;食用效果：一个漂亮的记录复制粘贴工具，可以保留图文，自定义标签组，好用又漂亮~&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://opmmds7g1.bkt.clouddn.com/md/1506769112231.png&quot; width=&quot;1920&quot;/&gt;&lt;/p&gt;
+&lt;p&gt;食用方式：Command + 数字1~9 就是粘贴对应的标签。&lt;br&gt;
+    
+    </summary>
+    
+    
+      <category term="Mac" scheme="https://github.com/tutuoo/tags/Mac/"/>
+    
+  </entry>
+  
+  <entry>
     <title>一些爱不释手的 Chrome 插件</title>
     <link href="https://github.com/tutuoo/2017/09/28/%E4%B8%80%E4%BA%9B%E7%88%B1%E4%B8%8D%E9%87%8A%E6%89%8B%E7%9A%84-Chrome-%E6%8F%92%E4%BB%B6/"/>
     <id>https://github.com/tutuoo/2017/09/28/一些爱不释手的-Chrome-插件/</id>
     <published>2017-09-28T12:43:27.000Z</published>
-    <updated>2017-09-28T12:54:07.000Z</updated>
+    <updated>2017-10-04T08:29:57.000Z</updated>
     
     <content type="html"><![CDATA[<h4 id="1-印象笔记-剪藏"><a href="#1-印象笔记-剪藏" class="headerlink" title="1. 印象笔记-剪藏"></a>1. 印象笔记-剪藏</h4><p><img src="http://opmmds7g1.bkt.clouddn.com/md/1506599088457.png" width="62"></p>
 <p>食用效果：可以一键截图网页正文，或者整个网页，部分区域，任你选，然后保存到你指定的文件目录。 效果不要太赞~网页版看到一半，一键保存，出门拿起手机继续看，当然还有更多功能~<br>食用方式：配合印象笔记 PC 版本或者手机版<br>（ps：码字的时候一个同事推荐了印象笔记手机版，说其中有个功能可以把手写在纸上的图文更清晰的转化成图片保存起来，用来复习啊，打印啊都是个不错的选择）<br> <a id="more"></a></p>
